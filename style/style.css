@@ -73,10 +73,8 @@ main{
 /*Clasese de ingles las cajas*/
 #caja{
     display: flex;
-    margin-bottom: 50%;
-    
+    margin-bottom: 50%;  
 }
-
 .card{
 display: flex;
 flex-direction:column;
